@@ -26,5 +26,7 @@ public class C01_Varargs {
     public static void topla(int sayı1, int sayı2) {
 
         System.out.println("2 Sayının Toplamı: "+ (sayı1+sayı2) );
+
+
     }
 }
