@@ -1,4 +1,4 @@
-package ders26_persByvalue_immurtableClasses;
+package ders26_passByvalue_immurtableClasses;
 public class C01_PassByValue {
     public static void main(String[] args) {
         double fiyat = 100;

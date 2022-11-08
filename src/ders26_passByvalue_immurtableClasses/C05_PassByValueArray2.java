@@ -1,4 +1,4 @@
-package ders26_persByvalue_immurtableClasses;
+package ders26_passByvalue_immurtableClasses;
 
 import java.util.Arrays;
 
