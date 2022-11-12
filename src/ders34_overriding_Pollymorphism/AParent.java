@@ -1,4 +1,4 @@
-package ders34_Overriding_Pollymorphism;
+package ders34_overriding_Pollymorphism;
 
 public class AParent {
 
