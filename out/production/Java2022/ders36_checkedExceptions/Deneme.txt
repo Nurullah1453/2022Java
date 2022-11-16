@@ -1,3 +1,2 @@
-
-Java gün geçtikçe güzelleşiyor
-Bitime az kaldıkça bizde bir değişim var
+java gun gectikce guzellesiyor
+bu daha baslangic
