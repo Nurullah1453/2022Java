@@ -1,4 +1,6 @@
-package ders44_maps;
+package ders45_maps;
+
+import ders44_maps.MapDepo;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package ders45_Maps;
+package ders45_maps;
 
 import ders44_maps.MapDepo;
 
