@@ -17,7 +17,7 @@ public class C02_EntrySet {
         //Soz,11,D,Adet Demir,109
         //Bu formatta Stringler oluşturup bir treeSet'e atayan ve bu seti bize döndüren bir method oluştralm.
 
-        Set<String>sıralıÖgrenciListesi=MapDepo.sıralıÖgrenciListesiOlusturMethodu(ögrenciMap);
+        Set<String>sıralıÖgrenciListesi=MapDepo.siraliOgrenciListesiOlustur(ögrenciMap);
         System.out.println(sıralıÖgrenciListesi);
 
 
